@@ -1,6 +1,6 @@
 # NIDSImplementation
 Implementation of NIDS paper in Python (Find detailed notes in the Jupyter Notebook)
-
+HTML file contains results run on the same notebook.
 Dataset hosted here: https://drive.google.com/file/d/14rvTu8Kg6EqwiO7zZHaZsYH129g6KQfg/view?usp=sharing
 
 Citation:
