@@ -1,5 +1,7 @@
 # NIDSImplementation
-Implementation of NIDS paper in Python
+Implementation of NIDS paper in Python (Find detailed notes in the Jupyter Notebook)
+
+Dataset hosted here: https://drive.google.com/file/d/14rvTu8Kg6EqwiO7zZHaZsYH129g6KQfg/view?usp=sharing
 
 Citation:
 Martina Karanfilovska, Teodora Kochovska, Zdravko Todorov, Ana Cholakoska, Goran Jakimovski, Danijela Efnusheva,
